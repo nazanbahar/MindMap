@@ -121,3 +121,58 @@ Biz hiçbirşey yapmadan bir sefer okumuştuk. Ancak bu sefer Query yi biz bilgi
 
 12. Github'da Proje Okumak
 bu konuda da bir video gelecek.
+
+
+*************************************************************************************************************************************
+CHAPTER -2 
+STEP1: GITUHUB GONDERMEK
+git init
+git add .
+git commit -m "Commit message"  -- making commits
+git remote add origin https://github.com/nazanbahar/gitgubRepoName.git
+git push u origin master
+------------------------------------------------------------------------
+STEP2: DETAILS
+1) Initializing a repository
+Local or Remote 
+
+`git init`
+
+2)Status
+`git status`
+
+3) Add files
+
+```
+git add .
+git add file.js 
+git add file1.js file2.js file3.js
+```
+
+4 )Comments
+
+```commit history
+git log   
+```
+
+5) Branches
+```new branches  
+git branch <new-branch-name>```
+
+```changing branches
+git checkout <branch-name>```
+
+
+
+```merging branches
+git merge <branch-name>
+```
+
+
+```deleting a branch  - **-d** flag:
+
+git branch -d <branch-name>
+
+
+
+
