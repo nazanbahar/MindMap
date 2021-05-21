@@ -4,7 +4,7 @@
 1. Vikipedi 
 2. Araştırılacaklar makalesi
 3. Dokümantasyon - Resmi Web Sitesi
-4. Crash Courses - [youtube crach courses](youtube.com)
+4. Crash Courses - [youtube crach courses](https://www.youtube.com/)
 5. Hacker News [hacker news](https://news.ycombinator.com/)
 6. Google [google](google.com)
 7. StackOverflow [stackoverflow](https://stackoverflow.com/)
