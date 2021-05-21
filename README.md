@@ -1,6 +1,6 @@
-###### MindMap
-###### Programlama Dillerine Baslama Yol haritası
-###### Bir teknolojiye hızlı adapte olmak için
+##### MindMap
+##### Programlama Dillerine Baslama Yol haritası
+##### Bir teknolojiye hızlı adapte olmak için
 1. Vikipedi 
 2. Araştırılacaklar makalesi
 3. Dokümantasyon - Resmi Web Sitesi
