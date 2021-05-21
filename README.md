@@ -24,10 +24,12 @@
 - [wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 - [youtube crach courses](https://www.youtube.com/)
 - [google](https://www.google.com/)
+- [hacker news](https://news.ycombinator.com/)
 - [stackoverflow](https://stackoverflow.com/)
 - [scholar](https://scholar.google.com/)
 - [github](https://github.com/) 
 - [udemy](https://www.udemy.com/) 
+
 
 
 
