@@ -6,7 +6,7 @@
 3. Dokümantasyon - Resmi Web Sitesi
 4. Crash Courses - [youtube crach courses](https://www.youtube.com/)
 5. Hacker News [hacker news](https://news.ycombinator.com/)
-6. Google [google](google.com)
+6. Google [google](https://www.google.com/)
 7. StackOverflow [stackoverflow](https://stackoverflow.com/)
 8. Akademik makale [scholar](https://scholar.google.com/)
 9. Codeları uygulamak
