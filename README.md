@@ -140,15 +140,15 @@ git push u origin master
 
 ```
 ##### STEP2: DETAILS
-1) Initializing a repository
+1. Initializing a repository
 Local or Remote 
 
 - `git init`
 
-2)Status
+2. Status
 - `git status`
 
-3) Add files
+3.  Add files
 
 ```
 git add .
@@ -156,15 +156,16 @@ git add file.js
 git add file1.js file2.js file3.js
 ```
 
-4 )Comments
+4. Comments
 
 ```commit history
 git log   
 ```
 
-5) Branches
+5.  Branches
 ```new branches  
-git branch <new-branch-name>```
+git branch <new-branch-name>
+```
 
 ```changing branches
 git checkout <branch-name>```
