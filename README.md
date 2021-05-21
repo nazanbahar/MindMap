@@ -16,11 +16,13 @@
 - [Oracle Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html)
 - [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
 - [Notion Best Git 15 minutues](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049)
+- [github documantations](https://docs.github.com/en/github/committing-changes-to-your-project)
 
 
 ##### Tools
 - [notion.so](https://www.notion.so/product?fredir=1)
 - [drawsql](https://drawsql.app/)
+
 
 
 ##### Searching 
@@ -134,7 +136,7 @@ bu konuda da bir video gelecek.
 ```
 git init
 git add .
-git commit -m "Commit message"  -- making commits
+git commit -m "Commit message"  
 git remote add origin https://github.com/nazanbahar/githubRepoName.git
 git push u origin master
 
@@ -156,7 +158,12 @@ git add file.js
 git add file1.js file2.js file3.js
 ```
 
-4. Comments
+4. Ignoring files
+**.gitignore** file).
+
+You can read an article about ignoring files [on this link](https://help.github.com/en/articles/ignoring-files).
+
+5. Comments
 - commit history
 ```
 git log   
@@ -166,7 +173,7 @@ git log
 git commit -m "Commit message"  
 ```
 
-5.  Branches
+6.  Branches
 -new branches
 ```  
 git branch <new-branch-name>
