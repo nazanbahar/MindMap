@@ -177,9 +177,9 @@ git checkout <branch-name>
 ```
 
 - merging branches
-`
+```
 git merge <branch-name>
-`
+```
 
 - deleting a branch - **-d** flag:
 ``` 
