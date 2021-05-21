@@ -138,7 +138,7 @@ git init
 git add .
 git commit -m "Commit message"  
 git remote add origin https://github.com/nazanbahar/githubRepoName.git
-git push u origin master
+git push -u origin master
 
 ```
 ##### STEP2: DETAILS
@@ -200,5 +200,14 @@ git merge <branch-name>
 git branch -d <branch-name>
 ```
 
+#### 7. Add Remote Repository
+```
+git remote add origin https://github.com/nazanbahar/githubRepoName.git
+```
+
+#### 8. Push - Remote Repository
+```bash
+git push -u origin master
+```
 
 
