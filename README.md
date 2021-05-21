@@ -127,7 +127,7 @@ bu konuda da bir video gelecek.
 
 
 *************************************************************************************************************************************
-## CHAPTER -2 
+## CHAPTER -2 : Learn Git
 ##### STEP1: GITBASH GITUHUB GONDERMEK</br>
 
 
@@ -161,7 +161,7 @@ git add file1.js file2.js file3.js
 ```
 git log   
 ```
-- making commits
+- making commits **-m** flag:
 ```
 git commit -m "Commit message"  
 ```
