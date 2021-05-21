@@ -130,7 +130,7 @@ bu konuda da bir video gelecek.
 
 *************************************************************************************************************************************
 ## CHAPTER -2 : Learn Git
-##### STEP1: GITBASH GITUHUB GONDERMEK</br>
+##### STEP1: SENDING A GITHUB PROJECT USING GITBASH - Remote Repository</br>
 
 
 ```
