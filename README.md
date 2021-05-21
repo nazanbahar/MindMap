@@ -148,8 +148,14 @@ Local or Remote
 - `git init`
 
 #### 2. Status
-- `git status`
-
+- status
+```
+git status
+```
+- clear
+```
+clear
+```
 #### 3.  Add files
 
 - add all the files inside the project folder
