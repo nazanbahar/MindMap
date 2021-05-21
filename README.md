@@ -142,15 +142,15 @@ git push u origin master
 
 ```
 ##### STEP2: DETAILS
-1. Initializing a repository
+#### 1. Initializing a repository
 Local or Remote 
 
 - `git init`
 
-2. Status
+#### 2. Status
 - `git status`
 
-3.  Add files
+#### 3.  Add files
 
 - add all the files inside the project folder
 ```
@@ -165,12 +165,12 @@ git add file.js
 git add file1.js file2.js file3.js
 ```
 
-4. Ignoring files
+#### 4. Ignoring files
 **.gitignore** file).
 
 You can read an article about ignoring files [on this link](https://help.github.com/en/articles/ignoring-files).
 
-5. Comments
+#### 5. Comments
 - commit history
 ```
 git log   
@@ -180,7 +180,7 @@ git log
 git commit -m "Commit message"  
 ```
 
-6.  Branches
+#### 6.  Branches
 -new branches
 ```  
 git branch <new-branch-name>
