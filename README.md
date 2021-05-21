@@ -12,6 +12,7 @@
 - [pgAdminER](https://www.pgadmin.org/docs/pgadmin4/latest/erd_tool.html#toolbar)
 - [Oracle Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html)
 - [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
+- [Notion Best Git 15 minutues](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049)
 
 
 
