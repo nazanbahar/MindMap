@@ -13,12 +13,17 @@
 - [Oracle Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html)
 - [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
 - [Notion Best Git 15 minutues](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049)
+- </br>
+- #####Tool
+- [notion.so](https://www.notion.so/product?fredir=1)
+-  [drawsql](https://drawsql.app/)
+
+
 
 
 
 - [devachitecture](https://www.devarchitecture.net/)
 - [python](https://docs.python.org/3/tutorial/index.html)
-- [drawsql](https://drawsql.app/)
 - [kodluyoruz.org](https://courses.kodluyoruz.org/login?next=/courses/course-v1%3AKodluyoruz%2BCS50x%2B2020/courseware/64129d16551143e5aa90f712b661857e/8d24c62b2137416781c1000bf5a1fa3a/1%3Factivate_block_id%3Dblock-v1%253AKodluyoruz%252BCS50x%252B2020%252Btype%2540vertical%252Bblock%2540dd9169653bb4473d8b05fa3045988e09)
 - [codingheroes](http://codingheroes.io/resources/)
 - [stackoverflow](https://stackoverflow.com/)
