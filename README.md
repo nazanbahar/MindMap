@@ -10,7 +10,7 @@
 7. StackOverflow [stackoverflow](https://stackoverflow.com/)
 8. Akademik makale [scholar](https://scholar.google.com/)
 9. Codeları uygulamak
-10. Github'da Proje Okumak - Github Değişik Repolara Bak ve Code Oku - [github](github.com) 
+10. Github'da Proje Okumak - Github Değişik Repolara Bak ve Code Oku - [github](https://github.com/) 
 11. Quick Start : Udemy [udemy](https://www.udemy.com/) 
 
 
