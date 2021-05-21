@@ -1,4 +1,7 @@
 ##### MindMap
+******************************************************************************************************************************************************************************
+## CHAPTER -1 PROGRAMLAMA YOL HARİTASI
+
 ##### Programlama Dillerine Baslama Yol haritası
 ##### Bir teknolojiye hızlı adapte olmak için
 #### Documantations
@@ -124,46 +127,42 @@ bu konuda da bir video gelecek.
 
 
 *************************************************************************************************************************************
-CHAPTER -2 
-STEP1: GITUHUB GONDERMEK
+## CHAPTER -2 
+##### STEP1: GITBASH GITUHUB GONDERMEK</br>
+
+
+```
 git init
 git add .
 git commit -m "Commit message"  -- making commits
-git remote add origin https://github.com/nazanbahar/gitgubRepoName.git
+git remote add origin https://github.com/nazanbahar/githubRepoName.git
 git push u origin master
-------------------------------------------------------------------------
-STEP2: DETAILS
-1. Initializing a repository
+
+```
+##### STEP2: DETAILS
+1) Initializing a repository
 Local or Remote 
 
-`git init`
+- `git init`
 
-2. Status
-`git status`
+2)Status
+- `git status`
 
-3. Add files
+3) Add files
 
-- add all the files inside the project folder 
 ```
 git add .
-```
-- add a specific file
-
-```
 git add file.js 
-```
-- add multiple files
-```
 git add file1.js file2.js file3.js
 ```
 
-4. Comments
+4 )Comments
 
 ```commit history
 git log   
 ```
 
-5. Branches
+5) Branches
 ```new branches  
 git branch <new-branch-name>```
 
