@@ -130,7 +130,7 @@ bu konuda da bir video gelecek.
 
 *************************************************************************************************************************************
 ## CHAPTER -2 : Learn Git
-##### STEP1: SENDING A GITHUB PROJECT USING GITBASH - Remote Repository</br>
+##### STEP1: FIRST: Remote Repository - SENDING A GITHUB PROJECT USING GITBASH </br>
 
 
 ```
@@ -141,21 +141,34 @@ git remote add origin https://github.com/nazanbahar/githubRepoName.git
 git push -u origin master
 
 ```
-##### STEP2: DETAILS
+#### STEP2: SECOND: Changed Code - MUST STEPS
+```
+git add .
+git commit -m "Commit message" 
+git push -u origin master
+```
+
+##### STEP3: DETAILS
 #### 1. Initializing a repository
 Local or Remote 
 
 - `git init`
 
-#### 2. Status
+#### 2. Checking 
+#### Status
 - status
 ```
 git status
 ```
-- clear
+#### Clear Screen
 ```
 clear
 ```
+#### Commit history
+```
+git log   
+```
+
 #### 3.  Add files
 
 - add all the files inside the project folder
@@ -176,7 +189,7 @@ git add file1.js file2.js file3.js
 
 You can read an article about ignoring files [on this link](https://help.github.com/en/articles/ignoring-files).
 
-#### 5. Comments
+#### 5. Commits
 - commit history
 ```
 git log   
