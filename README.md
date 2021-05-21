@@ -11,6 +11,7 @@
 - [apache tomcat documantations](http://tomcat.apache.org/tomcat-8.5-doc/)
 - [pgAdminER](https://www.pgadmin.org/docs/pgadmin4/latest/erd_tool.html#toolbar)
 - [Oracle Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html)
+- [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
 
 
 
