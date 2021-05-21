@@ -211,9 +211,10 @@ git branch -d <branch-name>
 git remote add origin https://github.com/nazanbahar/githubRepoName.git
 ```
 
-#### 8. Push - Remote Repository
+#### 8. Push - Remote Repository -  **-u** flag:
 ```bash
 git push -u origin master
 ```
+
 
 
