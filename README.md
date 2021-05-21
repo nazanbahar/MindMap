@@ -152,9 +152,16 @@ Local or Remote
 
 3.  Add files
 
+- add all the files inside the project folder
 ```
 git add .
+```
+- add a specific file
+```
 git add file.js 
+```
+- add multiple files
+```
 git add file1.js file2.js file3.js
 ```
 
