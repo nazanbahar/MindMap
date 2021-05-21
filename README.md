@@ -9,6 +9,7 @@
 - [hibernate documantations](https://hibernate.org/orm/documentation/5.4/)
 - [apache tomcat documantations](http://tomcat.apache.org/tomcat-8.5-doc/)
 - [pgAdminER](https://www.pgadmin.org/docs/pgadmin4/latest/erd_tool.html#toolbar)
+- [Oracle Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html)
 
 
 
