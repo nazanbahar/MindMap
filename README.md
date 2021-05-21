@@ -1,23 +1,22 @@
 ###### MindMap
-
+[kodlama.io](https://www.kodlama.io)
 Programlama Dillerine Baslama Yol haritası
 Bir teknolojiye hızlı adapte olmak için
 1. Vikipedi 
 2. Araştırılacaklar makalesi
 3. Dokümantasyon - Resmi Web Sitesi
-4. Crash Courses - youtube.com
-5. Hacker News https://news.ycombinator.com/
-6. Google
-7. StackOverflow https://stackoverflow.com/
-8. Akademik makale https://scholar.google.com/
+4. Crash Courses - [youtube crach courses](youtube.com)
+5. Hacker News [hacker news](https://news.ycombinator.com/)
+6. Google [google](google.com)
+7. StackOverflow [stackoverflow](https://stackoverflow.com/)
+8. Akademik makale [scholar](https://scholar.google.com/)
 9. Codeları uygulamak
-10. Github'da Proje Okumak - Github Değişik Repolara Bak ve Code Oku - github.com
-11. Udemy : Quick Start
+10. Github'da Proje Okumak - Github Değişik Repolara Bak ve Code Oku - [github](github.com) 
+11. Quick Start : Udemy [udemy](udemy.com) 
 
 
 1. Vikipedi - 
 yapsını hızlı gözden geçir anlamadığını araştıralcaklar makalesi 10 dk araştıracağını vaktini değerlendir. 10 dk boş vaktini değerlendir.
-
 
 2. Araştırılacaklar makalesi
 1 gün ayırdın gün boyu ara.
