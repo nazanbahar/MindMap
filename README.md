@@ -157,30 +157,34 @@ git add file1.js file2.js file3.js
 ```
 
 4. Comments
-
-```commit history
+- commit history
+```
 git log   
+```
+- making commits
+```
+git commit -m "Commit message"  
 ```
 
 5.  Branches
-```new branches  
+-new branches
+```  
 git branch <new-branch-name>
 ```
+- changing branches
+```
+git checkout <branch-name>
+```
 
-```changing branches
-git checkout <branch-name>```
-
-
-
-```merging branches
+- merging branches
+```
 git merge <branch-name>
 ```
 
-
-```deleting a branch  - **-d** flag:
-
+- deleting a branch - **-d** flag:
+``` 
 git branch -d <branch-name>
-
+```
 
 
 
