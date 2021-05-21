@@ -5,6 +5,7 @@
 - [java documantations](https://docs.oracle.com/javase/tutorial/) 
 - [eclipse documantations](https://help.eclipse.org/2021-03/index.jsp?topic=%2Forg.eclipse.jdt.doc.user%2Freference%2Fref-properties-build-path.htm)
 - [postgresql documantations](https://www.postgresqltutorial.com/)
+- [pgAdmin documantations](https://www.pgadmin.org/docs/pgadmin4/latest/index.html)
 - [hibernate documantations](https://hibernate.org/orm/documentation/5.4/)
 - [apache tomcat documantations](http://tomcat.apache.org/tomcat-8.5-doc/)
 
