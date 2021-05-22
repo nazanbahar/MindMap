@@ -20,9 +20,14 @@
 - [github documantations](https://docs.github.com/en/github/committing-changes-to-your-project)
 
 
+
 ##### Tools
 - [notion.so](https://www.notion.so/product?fredir=1)
 - [drawsql](https://drawsql.app/)
+
+##### Exceptions
+-[Oracle Java Documatations Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/)
+-[Jenkov Java Exceptions](http://tutorials.jenkov.com/java-exception-handling/index.html)
 
 
 ##### Searching 
