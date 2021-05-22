@@ -232,5 +232,50 @@ git remote add origin https://github.com/nazanbahar/githubRepoName.git
 git push -u origin master
 ```
 
+#### 9. Github: Pull And Push...
+
+```
+! [rejected] master -> master (fetch first)
+```
+[stackoverflow rejected-master-master-fetch-first](https://stackoverflow.com/questions/28429819/rejected-master-master-fetch-first)
+
+****************************************
+- SOLUTIONS-1:
+Follow the steps given below as I also had the same problem:
+
+```
+$ git pull origin master  
+(allow-unrelated-histories, To see if local branch can be easily merged with remote one)
+
+
+$ git push -u origin master 
+(Now push entire content of local git repository to your online repository)
+```
+
+****************************************
+- SOLUTIONS-2:
+```
+Your error might be because of the merge branch.
+Just follow this:
+
+step 1 : git pull origin master (in case if you get any message then ignore it)
+step 2 : git add .
+step 3 : git commit -m 'your commit message'
+step 4 : git push origin master
+```
+
+****************************************
+- SOLUTIONS-3:
+
+```
+pull is always the right approach but one exception could be when you are trying to convert a none-Git file system to a Github repository. There you would have to force the first commit in.
+
+git init
+git add README.md
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/userName/repoName.git
+git push --force origin master
+```
 
 
