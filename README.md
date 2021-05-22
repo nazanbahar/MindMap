@@ -25,7 +25,6 @@
 - [drawsql](https://drawsql.app/)
 
 
-
 ##### Searching 
 - [wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 - [youtube crach courses](https://www.youtube.com/)
