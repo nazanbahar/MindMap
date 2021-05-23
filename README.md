@@ -29,7 +29,6 @@
 -[Oracle Java Documatations Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/)
 -[Jenkov Java Exceptions](http://tutorials.jenkov.com/java-exception-handling/index.html)
 
-
 ##### Searching 
 - [wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 - [youtube crach courses](https://www.youtube.com/)
